@@ -17,7 +17,7 @@ public class RestAPIController {
        return  "Checking health 2";
    }
     @GetMapping("/healthcheck3")
-    public String healthCheckkk(){
+    public String healthCheckkkkkk(){
         return  "Checking health3";
     }
 
