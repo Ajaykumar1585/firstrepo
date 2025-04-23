@@ -19,7 +19,7 @@ public class RestAPIController {
     @GetMapping("/healthcheck3")
     public String healthChecker()
     {
-        return  "Checking health3";
+        return  " started gitChecking health3";
     }
 
 
