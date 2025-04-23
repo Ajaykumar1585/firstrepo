@@ -23,7 +23,7 @@ public class RestAPIController {
 
     @GetMapping("/healthcheck4")
     public String healthCheckkkk(){
-        return  "Checking health4";
+        return  "Checking health4 with good";
     }
 
 
